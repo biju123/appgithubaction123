@@ -1,0 +1,7 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,best_max_depth,best_n_estimatios,best_sample_split,best_samples_leaf,accuracy
+2025-01-27 00:30:51,146ms,b4c7f21b341d4f34b347f61469e12fef,thundering-mouse-396,LOCAL,src/evaluate.py,bachutha,FINISHED,,,,,0.94140625
+2025-01-27 00:29:54,47.9s,5ba9f10568ea40dfa67331f4f7b3488c,able-sheep-92,LOCAL,src/train.py,bachutha,FINISHED,10,100,5,1,0.7987012987012987
+2025-01-25 12:33:00,123ms,c2a08937363d4d24aefd7a9e5b14dd15,rambunctious-eel-722,LOCAL,src/evaluate.py,bachutha,FINISHED,,,,,0.9544270833333334
+2025-01-25 12:32:29,23.6s,04dc7db3b9af4641924811d67a7ac832,persistent-squid-139,LOCAL,src/train.py,bachutha,FINISHED,None,100,5,1,0.8246753246753247
+2025-01-25 11:16:00,23.9s,d96028f7e4204093ac0eb742f1d2c840,rumbling-seal-699,LOCAL,.\src\train.py,bachutha,FINISHED,None,200,5,2,0.7337662337662337
+2025-01-25 11:14:49,168ms,deab66c4a4a544c5bc17ba282d416e42,clean-dog-451,LOCAL,.\src\train.py,bachutha,FAILED,,,,,
